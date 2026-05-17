@@ -1,0 +1,27 @@
+---
+title: "Projetos de Pesquisa"
+format:
+  html:
+    css: styles.css
+---
+
+::: {.project}
+
+### 📊 Processos G0-ARMA e KB-ARMA aplicados ao índice de vegetação RVI
+
+**Financiador:** CNPq – PIBIC  
+**Período:** 2025–2026  
+**Coordenação:** Prof. Dr. Pedro M. Almeida-Junior  
+
+**Objetivo**  
+Desenvolver modelos G0-ARMA e KB-ARMA para predição de índices de vegetação RVI em dados SAR.
+
+**Equipe**
+- Prof. Dr. Pedro M. Almeida-Junior  
+- Elizeu Silva Medeiros  
+
+**Resultados Esperados**
+- Submissão de 1 artigo para periódico internacional  
+
+:::
+

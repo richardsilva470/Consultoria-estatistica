@@ -1,0 +1,21 @@
+{
+  "hash": "8866249fe028119ed88f236a1a616c87",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Curriculum Vitae\"\nformat: \n  html: default\n  pdf: default\n---\n\n\n\n\n\n\n## Identificação\n\n**Nome:** Pedro Monteiro de Almeida Junior  \n\n**Lattes:** [http://lattes.cnpq.br/](http://lattes.cnpq.br/7620146467708985)\n\n**ORCID:** [https://orcid.org/](https://orcid.org/0000-0003-0887-1639)  \n\n**Linkedin:** [https://www.linkedin.com/](https://www.linkedin.com/in/pedro-almeida-1b9676122/) \n\n**Email:** pedroalmeida@servidor.uepb.edu.br\n\n## Formação Acadêmica\n\n### Pós-Graduação\n\n**2018-2021: Doutorado em Estatística**  \nUniversidade Federal de Pernambuco (UFPE).  \n\nTítulo: Processamento de Imagens SAR por estruturas aproximadas do tipo ARMA.\n\nOrientador: Prof. Dr. Abraão David Costa do Nascimento\n\n**2014-2016: Mestrado em Estatística**  \nUniversidade Federal de Pernambuco (UFPE)   \n\nTítulo: Teoria da informação aplicadas a modelos ARMA: Testes para identificação e quantificação de overfitting\n\nOrientador: Prof. Dr. Abraão David Costa do Nascimento\n\n\n### Graduação\n\n**2011-2014: Bacharelado em Estatística**  \nUniversidade Federal da Paraíba (UFPB)\n\n## Experiência Profissional\n\n**2022-atual: Estatístico/Cientista de Dados | Coordenador de Soluções Digitais**  \nCapgemini - Experiência do usuário - Projeto Banco do Brasil.\n\n**2025-atual: Professor Adjunto A**  \nUEPB - Departamento de Estatística\n\n**2021-2023: Professor Substituto**  \nUEPB - Departamento de Estatística\n\n**2021-2022:  Estatístico/Cientista de Dados**  \nHARTB - Marketing Analytics | Sistemas de recomendação - Projeto Casas Bahia\n\n**2016-2017: Estatístico/Cientista de Dados**  \nNeurotech - Credit Score - Diversos Clientes \n\n## Métricas de Produção\n\n\n\n\n\n\n::: {.cell}\n::: {.cell-output .cell-output-stderr}\n\n```\nWarning: pacote 'DT' foi compilado no R versão 4.5.3\n```\n\n\n:::\n\n::: {.cell-output-display}\n\n```{=html}\n<div class=\"datatables html-widget html-fill-item\" id=\"htmlwidget-ffb22cfa2c9de56ef7ac\" style=\"width:100%;height:auto;\"></div>\n<script type=\"application/json\" data-for=\"htmlwidget-ffb22cfa2c9de56ef7ac\">{\"x\":{\"filter\":\"none\",\"vertical\":false,\"data\":[[\"Artigos em Periódicos\",\"Capítulos de Livro\",\"Trabalhos em Conferências\",\"Orientações Mestrado\",\"Orientações Doutorado\",\"Projetos Coordenados\"],[10,0,0,0,0,2],[10,0,0,0,0,2]],\"container\":\"<table class=\\\"display\\\">\\n  <thead>\\n    <tr>\\n      <th>Categoria<\\/th>\\n      <th>Total<\\/th>\\n      <th>Últimos.5.anos<\\/th>\\n    <\\/tr>\\n  <\\/thead>\\n<\\/table>\",\"options\":{\"dom\":\"t\",\"columnDefs\":[{\"className\":\"dt-right\",\"targets\":[1,2]},{\"name\":\"Categoria\",\"targets\":0},{\"name\":\"Total\",\"targets\":1},{\"name\":\"Últimos.5.anos\",\"targets\":2}],\"order\":[],\"autoWidth\":false,\"orderClasses\":false}},\"evals\":[],\"jsHooks\":[]}</script>\n```\n\n:::\n:::\n\n\n\n\n\n\n---\n",
+    "supporting": [
+      "cv_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {
+      "include-in-header": [
+        "<link href=\"site_libs/htmltools-fill-0.5.9/fill.css\" rel=\"stylesheet\" />\n<script src=\"site_libs/htmlwidgets-1.6.4/htmlwidgets.js\"></script>\n<link href=\"site_libs/datatables-css-0.0.0/datatables-crosstalk.css\" rel=\"stylesheet\" />\n<script src=\"site_libs/datatables-binding-0.34.0/datatables.js\"></script>\n<script src=\"site_libs/jquery-3.6.0/jquery-3.6.0.min.js\"></script>\n<link href=\"site_libs/dt-core-1.13.6/css/jquery.dataTables.min.css\" rel=\"stylesheet\" />\n<link href=\"site_libs/dt-core-1.13.6/css/jquery.dataTables.extra.css\" rel=\"stylesheet\" />\n<script src=\"site_libs/dt-core-1.13.6/js/jquery.dataTables.min.js\"></script>\n<link href=\"site_libs/crosstalk-1.2.2/css/crosstalk.min.css\" rel=\"stylesheet\" />\n<script src=\"site_libs/crosstalk-1.2.2/js/crosstalk.min.js\"></script>\n"
+      ]
+    },
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

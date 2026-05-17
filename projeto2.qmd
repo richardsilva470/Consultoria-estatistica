@@ -1,0 +1,26 @@
+---
+title: "Projetos de Pesquisa"
+format:
+  html:
+    css: styles.css
+---
+
+::: {.project}
+
+### 🌱 Classificadores para Séries Temporais de dados SAR
+
+**Financiador:** CNPq – PIBIC  
+**Período:** 2025–2026  
+**Coordenação:** Prof. Dr. Pedro M. Almeida-Junior  
+
+**Objetivo**  
+Desenvolver novos classificadores baseados em medidas de divergência para séries temporais em dados SAR.
+
+**Equipe**
+- Prof. Dr. Pedro M. Almeida-Junior  
+- Ítalo Gabriel da Silva  
+
+**Resultados Esperados**
+- Submissão de 1 artigo para periódico internacional  
+
+:::

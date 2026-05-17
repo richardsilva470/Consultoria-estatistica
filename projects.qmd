@@ -1,0 +1,27 @@
+---
+title: "Projetos de Pesquisa"
+format:
+  html:
+    css: styles.css
+---
+
+
+## Projetos em Andamento
+
+::: {.project-grid}
+
+::: {.project-card onclick="window.location='projeto1.html'"}
+### 📊 G0-ARMA e KB-ARMA para RVI
+**CNPq – PIBIC** (2025–2026)  
+Modelos para predição de índices de vegetação em dados SAR.
+:::
+
+::: {.project-card onclick="window.location='projeto2.html'"}
+### 🌱 Classificadores para Séries Temporais (SAR)
+**CNPq – PIBIC** (2025–2026)  
+Desenvolvimento de classificadores baseados em divergências.
+:::
+
+:::
+
+
