@@ -1,0 +1,42 @@
+---
+title: "Disciplinas"
+---
+
+## Consultoria Estatística (2026.1 - Noite)
+
+
+::: {.panel-tabset}
+
+## 📊 Informações
+
+**Código:** GRAD.00683| **Créditos:** 4 | **Carga Horária:** 60h  
+
+**Horário:** Seg (18:00-20:00) | Qua (20:00-22:00)
+
+**Sala:** Seg (A-112p - CCT - Bloco A) e Qua (C-205p - CCT - Bloco C)
+
+
+## ✏️ Materiais/Listas
+
+### Notas de aula
+
+- [Apresentação do curso](https://rawcdn.githack.com/pedroallmeiida/consultoria_estatistica/main/aulas/1_apresentacao_curso.html)
+- [Introdução ao Github](https://rawcdn.githack.com/pedroallmeiida/consultoria_estatistica/main/aulas/2_introducao_github.html)
+- [Introdução ao Python](https://rawcdn.githack.com/pedroallmeiida/consultoria_estatistica/main/aulas/4_introducao_python.html)
+- [Entendimento de Necessidades](https://rawcdn.githack.com/pedroallmeiida/consultoria_estatistica/main/aulas/3_entendimento_necessidades.html)
+
+
+
+### Templates e tutoriais 
+
+- [Tutorial VS Code](https://rawcdn.githack.com/pedroallmeiida/consultoria_estatistica/main/aulas/tutorial_vscode.html)
+- [Template Entrevista](https://rawcdn.githack.com/pedroallmeiida/consultoria_estatistica/main/aulas/template_entrevistas.html)
+- [Template Briefing](https://rawcdn.githack.com/pedroallmeiida/consultoria_estatistica/main/aulas/template_briefing.html)
+
+## Exercícios
+
+### Projetos/Seminários
+
+
+:::
+

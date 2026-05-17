@@ -11,16 +11,13 @@ website:
     search: true
     left:
       - text: "Início"
-        file: index.qmd
+        file: pagina_inicial.qmd
       - text: "Projetos"
         file: projects.qmd
       - text: "Disciplinas"
         menu:
-        - text: "Página geral"
-          file: courses.qmd
         - text: "Consultoria Estatística"
-          file: courses.qmd
-
+          file: dis_consultoria.qmd
       - text: "CV"
         file: cv.qmd
       - text: "Contato"
@@ -37,11 +34,9 @@ website:
     contents:
       - section: "Pesquisa"
         contents:
-          - publications.qmd
           - projects.qmd
       - section: "Ensino"
         contents:
-          - courses.qmd
           - materials.qmd
 
 format:
