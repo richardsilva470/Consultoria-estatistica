@@ -2,47 +2,58 @@
   {
     "objectID": "pagina_inicial.html",
     "href": "pagina_inicial.html",
-    "title": "Prof. Pedro M. Almeida-Junior",
+    "title": "Richard Matheus A. da Silva",
     "section": "",
-    "text": "Sou professor e pesquisador no Departamento de Estatística da Universidade Estadual da Paraíba (UEPB). Atuo também como Estatístico/Cientista de dados na Capgemini Brasil. Gosto de desenvolver pesquisas nas áreas de Regressão e Séries Temporais. Também gosto de atuar no mercado de trabalho desenvolvendo modelos de Machine Learning no setor bancário.\n\n\n\nEstatística Aplicada Séries Temporais Machine Learning Ciência de Dados\n\n\nSensoriamento Remoto (SAR) Estatística Espacial\n\n\n\n\n\n\nPhD em Estatística\nUFPE | 2021\n\n\nMestrado em Estatística\nUFPE | 2016\n\n\nBacharelado em Estatística\nUFPB | 2014"
+    "text": "Meu nome é Richard e sou estudante de Estatística, com grande interesse em análise de dados, programação e tecnologia.\nAtualmente, realizo estágio no IDEIA, atuando na área de pesquisa eleitoral. Durante essa experiência, venho desenvolvendo habilidades práticas com organização de dados, elaboração de relatórios e automação de processos.\nTenho interesse especial em áreas como estatística aplicada, análise multivariada, inteligência artificial e programação em Python. Também gosto de explorar ferramentas tecnológicas para transformar dados em soluções úteis e mais eficientes.\nAlém da área acadêmica, busco constantemente aprender novas habilidades, principalmente relacionadas à tecnologia, ciência de dados e desenvolvimento de projetos práticos. Atualmente, também tenho interesse em criar aplicações utilizando Streamlit para apresentar soluções interativas e facilitar a visualização de informações.\nSou uma pessoa curiosa, dedicada e focada em evolução constante, sempre procurando unir conhecimento teórico com aplicações práticas que possam gerar impacto positivo.\n\n\n\nSéries Temporais Machine Learning Ciência de Dados\n\n\n\n\n\n\nTécnico em Administração\nSENAI | 2023\n\n\nFormando em Estatística\nUEPB | 2026"
   },
   {
     "objectID": "pagina_inicial.html#sobre-mim",
     "href": "pagina_inicial.html#sobre-mim",
-    "title": "Prof. Pedro M. Almeida-Junior",
+    "title": "Richard Matheus A. da Silva",
     "section": "",
-    "text": "Sou professor e pesquisador no Departamento de Estatística da Universidade Estadual da Paraíba (UEPB). Atuo também como Estatístico/Cientista de dados na Capgemini Brasil. Gosto de desenvolver pesquisas nas áreas de Regressão e Séries Temporais. Também gosto de atuar no mercado de trabalho desenvolvendo modelos de Machine Learning no setor bancário.\n\n\n\nEstatística Aplicada Séries Temporais Machine Learning Ciência de Dados\n\n\nSensoriamento Remoto (SAR) Estatística Espacial\n\n\n\n\n\n\nPhD em Estatística\nUFPE | 2021\n\n\nMestrado em Estatística\nUFPE | 2016\n\n\nBacharelado em Estatística\nUFPB | 2014"
+    "text": "Meu nome é Richard e sou estudante de Estatística, com grande interesse em análise de dados, programação e tecnologia.\nAtualmente, realizo estágio no IDEIA, atuando na área de pesquisa eleitoral. Durante essa experiência, venho desenvolvendo habilidades práticas com organização de dados, elaboração de relatórios e automação de processos.\nTenho interesse especial em áreas como estatística aplicada, análise multivariada, inteligência artificial e programação em Python. Também gosto de explorar ferramentas tecnológicas para transformar dados em soluções úteis e mais eficientes.\nAlém da área acadêmica, busco constantemente aprender novas habilidades, principalmente relacionadas à tecnologia, ciência de dados e desenvolvimento de projetos práticos. Atualmente, também tenho interesse em criar aplicações utilizando Streamlit para apresentar soluções interativas e facilitar a visualização de informações.\nSou uma pessoa curiosa, dedicada e focada em evolução constante, sempre procurando unir conhecimento teórico com aplicações práticas que possam gerar impacto positivo.\n\n\n\nSéries Temporais Machine Learning Ciência de Dados\n\n\n\n\n\n\nTécnico em Administração\nSENAI | 2023\n\n\nFormando em Estatística\nUEPB | 2026"
   },
   {
-    "objectID": "projeto2.html",
-    "href": "projeto2.html",
+    "objectID": "projeto1.html",
+    "href": "projeto1.html",
     "title": "Projetos de Pesquisa",
     "section": "",
-    "text": "🌱 Classificadores para Séries Temporais de dados SAR\nFinanciador: CNPq – PIBIC\nPeríodo: 2025–2026\nCoordenação: Prof. Dr. Pedro M. Almeida-Junior\nObjetivo\nDesenvolver novos classificadores baseados em medidas de divergência para séries temporais em dados SAR.\nEquipe - Prof. Dr. Pedro M. Almeida-Junior\n- Ítalo Gabriel da Silva\nResultados Esperados - Submissão de 1 artigo para periódico internacional"
+    "text": "📊 Detecção de Discurso Abusivo com Transformer\nFinanciador: CNPq – PIBIC\nPeríodo: 2025–2026\nCoordenação: Prof. Dr. Silvio Fernando Alves Xavier Junior\nObjetivo\nIndentificar e classificar discursos abusivos em textos utilizando técnicas avançadas de processamento de linguagem natural, como modelos Transformer (BERT), regressão logística e redes neurais recorrentes (LSTM).\nEquipe - Prof. Dr. Silvio Fernando Alves Xavier Junior\n- Richard Matheus A. da Silva (Bolsista)"
   },
   {
-    "objectID": "projects.html",
-    "href": "projects.html",
-    "title": "Projetos de Pesquisa",
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contato",
     "section": "",
-    "text": "CNPq – PIBIC (2025–2026)\nModelos para predição de índices de vegetação em dados SAR.\n\n\n\nCNPq – PIBIC (2025–2026)\nDesenvolvimento de classificadores baseados em divergências.",
-    "crumbs": [
-      "Início",
-      "Pesquisa",
-      "Projetos de Pesquisa"
-    ]
+    "text": "Universidade Estadual da Paraíba\nDepartamento de Estatística - CCT Campina Grande, Paraíba.\n\n\n\nE-mail: [richardavelino003@gmail.com]"
   },
   {
-    "objectID": "projects.html#projetos-em-andamento",
-    "href": "projects.html#projetos-em-andamento",
-    "title": "Projetos de Pesquisa",
+    "objectID": "contact.html#informações-de-contato",
+    "href": "contact.html#informações-de-contato",
+    "title": "Contato",
     "section": "",
-    "text": "CNPq – PIBIC (2025–2026)\nModelos para predição de índices de vegetação em dados SAR.\n\n\n\nCNPq – PIBIC (2025–2026)\nDesenvolvimento de classificadores baseados em divergências.",
-    "crumbs": [
-      "Início",
-      "Pesquisa",
-      "Projetos de Pesquisa"
-    ]
+    "text": "Universidade Estadual da Paraíba\nDepartamento de Estatística - CCT Campina Grande, Paraíba.\n\n\n\nE-mail: [richardavelino003@gmail.com]"
+  },
+  {
+    "objectID": "contact.html#redes-sociais-e-acadêmicas",
+    "href": "contact.html#redes-sociais-e-acadêmicas",
+    "title": "Contato",
+    "section": "Redes Sociais e Acadêmicas",
+    "text": "Redes Sociais e Acadêmicas\n\nGitHub\nLinkedIn"
+  },
+  {
+    "objectID": "contact.html#localização",
+    "href": "contact.html#localização",
+    "title": "Contato",
+    "section": "Localização",
+    "text": "Localização"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
   },
   {
     "objectID": "dis_consultoria.html",
@@ -59,53 +70,42 @@
     "text": "📊 Informações✏️ Materiais/ListasExercícios\n\n\nCódigo: GRAD.00683| Créditos: 4 | Carga Horária: 60h\nHorário: Seg (18:00-20:00) | Qua (20:00-22:00)\nSala: Seg (A-112p - CCT - Bloco A) e Qua (C-205p - CCT - Bloco C)\n\n\n\n\n\nApresentação do curso\nIntrodução ao Github\nIntrodução ao Python\nEntendimento de Necessidades\n\n\n\n\n\nTutorial VS Code\nTemplate Entrevista\nTemplate Briefing"
   },
   {
-    "objectID": "contact.html",
-    "href": "contact.html",
-    "title": "Contato",
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projetos de Pesquisa",
     "section": "",
-    "text": "Universidade Estadual da Paraíba\nDepartamento de Estatística - CCT Campina Grande, Paraíba.\n\n\n\nE-mail: [pedroalmeida@servidor.uepb.edu.br]\nHorário de Atendimento:\nTerças-feiras: 14:00-17:00\nQuintas-feiras: 14:00-17:00"
+    "text": "CNPq – PIBIC (2025–2026)\nModelos para detecção de discurso de ódio em textos utilizando modelo BERT, Logistic Regression e Deep Learning - LSTM.\n\n\n\nCNPq – Projeto de extenção (2025–2026)\nPodcast de divulgação científica sobre estatística, ciência de dados e tecnologia, com entrevistas, análises e discussões sobre temas atuais.",
+    "crumbs": [
+      "Início",
+      "Pesquisa",
+      "Projetos de Pesquisa"
+    ]
   },
   {
-    "objectID": "contact.html#informações-de-contato",
-    "href": "contact.html#informações-de-contato",
-    "title": "Contato",
+    "objectID": "projects.html#projetos-em-andamento",
+    "href": "projects.html#projetos-em-andamento",
+    "title": "Projetos de Pesquisa",
     "section": "",
-    "text": "Universidade Estadual da Paraíba\nDepartamento de Estatística - CCT Campina Grande, Paraíba.\n\n\n\nE-mail: [pedroalmeida@servidor.uepb.edu.br]\nHorário de Atendimento:\nTerças-feiras: 14:00-17:00\nQuintas-feiras: 14:00-17:00"
-  },
-  {
-    "objectID": "contact.html#redes-sociais-e-acadêmicas",
-    "href": "contact.html#redes-sociais-e-acadêmicas",
-    "title": "Contato",
-    "section": "Redes Sociais e Acadêmicas",
-    "text": "Redes Sociais e Acadêmicas\n\nGitHub\nLinkedIn"
-  },
-  {
-    "objectID": "contact.html#localização",
-    "href": "contact.html#localização",
-    "title": "Contato",
-    "section": "Localização",
-    "text": "Localização\n\n\nWarning: pacote 'leaflet' foi compilado no R versão 4.5.3\n\n\nWarning: pacote 'tidygeocoder' foi compilado no R versão 4.5.3"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site"
+    "text": "CNPq – PIBIC (2025–2026)\nModelos para detecção de discurso de ódio em textos utilizando modelo BERT, Logistic Regression e Deep Learning - LSTM.\n\n\n\nCNPq – Projeto de extenção (2025–2026)\nPodcast de divulgação científica sobre estatística, ciência de dados e tecnologia, com entrevistas, análises e discussões sobre temas atuais.",
+    "crumbs": [
+      "Início",
+      "Pesquisa",
+      "Projetos de Pesquisa"
+    ]
   },
   {
     "objectID": "cv.html",
     "href": "cv.html",
     "title": "Curriculum Vitae",
     "section": "",
-    "text": "Nome: Pedro Monteiro de Almeida Junior\nLattes: http://lattes.cnpq.br/\nORCID: https://orcid.org/\nLinkedin: https://www.linkedin.com/\nEmail: pedroalmeida@servidor.uepb.edu.br"
+    "text": "Nome: Richard Matheus A. da Silva\nLattes: http://lattes.cnpq.br/\nORCID: https://orcid.org/\nLinkedin: https://www.linkedin.com/\nEmail: pedroalmeida@servidor.uepb.edu.br"
   },
   {
     "objectID": "cv.html#identificação",
     "href": "cv.html#identificação",
     "title": "Curriculum Vitae",
     "section": "",
-    "text": "Nome: Pedro Monteiro de Almeida Junior\nLattes: http://lattes.cnpq.br/\nORCID: https://orcid.org/\nLinkedin: https://www.linkedin.com/\nEmail: pedroalmeida@servidor.uepb.edu.br"
+    "text": "Nome: Richard Matheus A. da Silva\nLattes: http://lattes.cnpq.br/\nORCID: https://orcid.org/\nLinkedin: https://www.linkedin.com/\nEmail: pedroalmeida@servidor.uepb.edu.br"
   },
   {
     "objectID": "cv.html#formação-acadêmica",
@@ -126,13 +126,13 @@
     "href": "cv.html#métricas-de-produção",
     "title": "Curriculum Vitae",
     "section": "Métricas de Produção",
-    "text": "Métricas de Produção\n\n\nWarning: pacote 'DT' foi compilado no R versão 4.5.3"
+    "text": "Métricas de Produção"
   },
   {
-    "objectID": "projeto1.html",
-    "href": "projeto1.html",
+    "objectID": "projeto2.html",
+    "href": "projeto2.html",
     "title": "Projetos de Pesquisa",
     "section": "",
-    "text": "📊 Processos G0-ARMA e KB-ARMA aplicados ao índice de vegetação RVI\nFinanciador: CNPq – PIBIC\nPeríodo: 2025–2026\nCoordenação: Prof. Dr. Pedro M. Almeida-Junior\nObjetivo\nDesenvolver modelos G0-ARMA e KB-ARMA para predição de índices de vegetação RVI em dados SAR.\nEquipe - Prof. Dr. Pedro M. Almeida-Junior\n- Elizeu Silva Medeiros\nResultados Esperados - Submissão de 1 artigo para periódico internacional"
+    "text": "📊 Estatícast\nPeríodo: 2025–2026\nCoordenação: Prof. Dr. Silvio Fernando Alves Xavier Junior\nObjetivo\nPromover a divulgação científica sobre estatística, ciência de dados e tecnologia, por meio de um podcast que aborda temas atuais e relevantes para a comunidade acadêmica e pública.\nEquipe\n\nProf. Dr. Silvio Fernando Alves Xavier Junior (Coordenador)\nRichard Matheus A. da Silva - (Voluntário)\nFabiano - (Voluntário)\nTulio - (Voluntário)\nFabio - (Voluntário)\nPatrícia - (Voluntária)\n\nConvidados que entrevistei\n\nEpisódio 07 - Rodolfo Pereira\nEpisódio 08 - Vladimir Costa\nEpisodio 09 - Tiago Almeida\nEpisodio 10 - Elisângela Rodrigues\nEpisódio 11 - Marcelo Bourguignon\nEpisódio 12 - Denilson"
   }
 ]

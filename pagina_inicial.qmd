@@ -1,19 +1,19 @@
 ---
-title: "Prof. Pedro M. Almeida-Junior"
-subtitle: "Professor & Pesquisador | Departamento de Estatística | UEPB"
-image: figuras/profile2.jpg
+title: "Richard Matheus A. da Silva"
+subtitle: "Pesquisador | Cientista de Dados"
+image: figuras/eu.png
 about:
-  template: jolla
+  template: broadside
   links:
     - icon: linkedin
       text: Linkedin
-      href: https://www.linkedin.com/in/seu-usuario/
+      href: https://www.linkedin.com/in/richard-m-silva/
     - icon: github
       text: Github
-      href: https://github.com/seu-usuario
+      href: https://github.com/richardsilva470
     - icon: envelope
       text: Email
-      href: mailto:seu-email
+      href: richardavelino3@gmail.com
 format:
   html:
     css: styles.css
@@ -23,21 +23,23 @@ format:
 
 ## Sobre mim
 
-Sou professor e pesquisador no Departamento de Estatística da Universidade Estadual da Paraíba (UEPB). Atuo também como Estatístico/Cientista de dados na Capgemini Brasil. Gosto de desenvolver pesquisas nas áreas de Regressão e Séries Temporais. Também gosto de atuar no mercado de trabalho desenvolvendo modelos de *Machine Learning*  no setor bancário. 
+Meu nome é Richard e sou estudante de Estatística, com grande interesse em análise de dados, programação e tecnologia.
+
+Atualmente, realizo estágio no IDEIA, atuando na área de pesquisa eleitoral. Durante essa experiência, venho desenvolvendo habilidades práticas com organização de dados, elaboração de relatórios e automação de processos.
+
+Tenho interesse especial em áreas como estatística aplicada, análise multivariada, inteligência artificial e programação em Python. Também gosto de explorar ferramentas tecnológicas para transformar dados em soluções úteis e mais eficientes.
+
+Além da área acadêmica, busco constantemente aprender novas habilidades, principalmente relacionadas à tecnologia, ciência de dados e desenvolvimento de projetos práticos. Atualmente, também tenho interesse em criar aplicações utilizando Streamlit para apresentar soluções interativas e facilitar a visualização de informações.
+
+Sou uma pessoa curiosa, dedicada e focada em evolução constante, sempre procurando unir conhecimento teórico com aplicações práticas que possam gerar impacto positivo.
 
 ### Áreas de Interesse
 
 
 ::: {.areas}
-<span>Estatística Aplicada</span>
 <span>Séries Temporais</span>
 <span>Machine Learning</span>
 <span>Ciência de Dados</span>
-:::
-
-::: {.areas}
-<span>Sensoriamento Remoto (SAR)</span>
-<span>Estatística Espacial</span>
 :::
 
 ### Formação
@@ -45,18 +47,13 @@ Sou professor e pesquisador no Departamento de Estatística da Universidade Esta
 ::: {.grid}
 
 ::: {.g-col-4}
-**PhD em Estatística**  
-UFPE | 2021
+**Técnico em Administração**  
+SENAI | 2023
 :::
 
 ::: {.g-col-4}
-**Mestrado em Estatística**  
-UFPE | 2016
-:::
-
-::: {.g-col-4}
-**Bacharelado em Estatística**  
-UFPB | 2014
+**Formando em Estatística**  
+UEPB | 2026
 :::
 
 :::
@@ -72,15 +69,12 @@ library(dplyr)
 
 # Dados das publicações recentes (você pode carregar de um CSV)
 publicacoes_recentes <- data.frame(
-  Ano = c(2023, 2022, 2021),
+  Ano = c(2026,2026,2025),
   Titulo = c(
-    "Generalized gamma ARMA process for synthetic aperture radar amplitude and intensity data",
-    "K-Bessel regression model for speckled data", 
-    "ARMA process for speckled data"
-  ),
-  Journal = c("Environmetrics", "JAS", "JSCS"),
-  Impacto = NA
-)
+    "Detecção de Discurso Abusivo em Português usando Modelos de Linguagem",
+    "Estatícast",
+    "PAINEL SAUDE DASH"
+  ))
 
 DT::datatable(
   publicacoes_recentes,

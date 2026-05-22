@@ -7,21 +7,17 @@ format:
 
 ::: {.project}
 
-### 📊 Processos G0-ARMA e KB-ARMA aplicados ao índice de vegetação RVI
+### 📊 Detecção de Discurso Abusivo com Transformer
 
 **Financiador:** CNPq – PIBIC  
 **Período:** 2025–2026  
-**Coordenação:** Prof. Dr. Pedro M. Almeida-Junior  
+**Coordenação:** Prof. Dr. Silvio Fernando Alves Xavier Junior  
 
 **Objetivo**  
-Desenvolver modelos G0-ARMA e KB-ARMA para predição de índices de vegetação RVI em dados SAR.
+Indentificar e classificar discursos abusivos em textos utilizando técnicas avançadas de processamento de linguagem natural, como modelos Transformer (BERT), regressão logística e redes neurais recorrentes (LSTM).
 
 **Equipe**
-- Prof. Dr. Pedro M. Almeida-Junior  
-- Elizeu Silva Medeiros  
-
-**Resultados Esperados**
-- Submissão de 1 artigo para periódico internacional  
-
+- Prof. Dr. Silvio Fernando Alves Xavier Junior  
+- Richard Matheus A. da Silva (Bolsista)
 :::
 

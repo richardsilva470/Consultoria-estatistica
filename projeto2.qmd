@@ -7,20 +7,36 @@ format:
 
 ::: {.project}
 
-### 🌱 Classificadores para Séries Temporais de dados SAR
+### 📊 Estatícast
 
-**Financiador:** CNPq – PIBIC  
 **Período:** 2025–2026  
-**Coordenação:** Prof. Dr. Pedro M. Almeida-Junior  
+**Coordenação:** Prof. Dr. Silvio Fernando Alves Xavier Junior  
 
 **Objetivo**  
-Desenvolver novos classificadores baseados em medidas de divergência para séries temporais em dados SAR.
+Promover a divulgação científica sobre estatística, ciência de dados e tecnologia, por meio de um podcast que aborda temas atuais e relevantes para a comunidade acadêmica e pública.
 
 **Equipe**
-- Prof. Dr. Pedro M. Almeida-Junior  
-- Ítalo Gabriel da Silva  
 
-**Resultados Esperados**
-- Submissão de 1 artigo para periódico internacional  
+- Prof. Dr. Silvio Fernando Alves Xavier Junior (Coordenador)
+
+- Richard Matheus A. da Silva - (Voluntário)
+
+- Fabiano - (Voluntário)
+
+- Tulio - (Voluntário)
+
+- Fabio - (Voluntário)
+
+- Patrícia - (Voluntária)
+
+**Convidados que entrevistei**
+
+- Episódio 07 - Rodolfo Pereira
+- Episódio 08 - Vladimir Costa
+- Episodio 09 - Tiago Almeida
+- Episodio 10 - Elisângela Rodrigues
+- Episódio 11 - Marcelo Bourguignon
+- Episódio 12 - Denilson 
 
 :::
+

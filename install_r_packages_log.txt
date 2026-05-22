@@ -1,0 +1,25 @@
+﻿Rscript.exe : Instalando pacotes em 
+'C:/Users/Richard/AppData/Local/R/win-library/4.6'
+No linha:1 caractere:95
++ ... ifolio_ds"; & 'C:\Program Files\R\R-4.6.0\bin\Rscript.exe' -e "instal ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (Instalando paco...in-library/4.6' 
+   :String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+(como 'lib' n├úo foi especificado)
+tentando a URL 
+'https://cloud.r-project.org/bin/windows/contrib/4.6/DT_0.34.0.zip'
+tentando a URL 
+'https://cloud.r-project.org/bin/windows/contrib/4.6/dplyr_1.2.1.zip'
+tentando a URL 
+'https://cloud.r-project.org/bin/windows/contrib/4.6/leaflet_2.2.3.zip'
+tentando a URL 
+'https://cloud.r-project.org/bin/windows/contrib/4.6/tidygeocoder_1.0.6.zip'
+package 'DT' successfully unpacked and MD5 sums checked
+package 'dplyr' successfully unpacked and MD5 sums checked
+package 'leaflet' successfully unpacked and MD5 sums checked
+package 'tidygeocoder' successfully unpacked and MD5 sums checked
+
+Os pacotes bin├írios baixados est├úo em
+	C:\Users\Richard\AppData\Local\Temp\Rtmp4045zD\downloaded_packages
