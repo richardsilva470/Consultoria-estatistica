@@ -18,8 +18,6 @@ website:
         menu:
         - text: "Consultoria Estatística"
           file: dis_consultoria.qmd
-      - text: "CV"
-        file: cv.qmd
       - text: "Contato"
         file: contact.qmd
     right:
