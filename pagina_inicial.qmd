@@ -58,6 +58,19 @@ UEPB | 2026
 
 :::
 
+### linguagens de Programação
+::: {.grid}
+
+::: {.g-col-4}
+**Python** - Intermediário
+:::
+
+::: {.g-col-4}
+**R** - Intermediário
+:::
+
+:::
+
 ### Destaques Recentes
 
 ```{r}
