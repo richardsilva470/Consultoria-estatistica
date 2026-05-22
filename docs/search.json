@@ -1,73 +1,10 @@
 [
   {
-    "objectID": "pagina_inicial.html",
-    "href": "pagina_inicial.html",
-    "title": "Richard Matheus A. da Silva",
-    "section": "",
-    "text": "Meu nome é Richard e sou estudante de Estatística, com grande interesse em análise de dados, programação e tecnologia.\nAtualmente, realizo estágio no IDEIA, atuando na área de pesquisa eleitoral. Durante essa experiência, venho desenvolvendo habilidades práticas com organização de dados, elaboração de relatórios e automação de processos.\nTenho interesse especial em áreas como estatística aplicada, análise multivariada, inteligência artificial e programação em Python. Também gosto de explorar ferramentas tecnológicas para transformar dados em soluções úteis e mais eficientes.\nAlém da área acadêmica, busco constantemente aprender novas habilidades, principalmente relacionadas à tecnologia, ciência de dados e desenvolvimento de projetos práticos. Atualmente, também tenho interesse em criar aplicações utilizando Streamlit para apresentar soluções interativas e facilitar a visualização de informações.\nSou uma pessoa curiosa, dedicada e focada em evolução constante, sempre procurando unir conhecimento teórico com aplicações práticas que possam gerar impacto positivo.\n\n\n\nSéries Temporais Machine Learning Ciência de Dados\n\n\n\n\n\n\nTécnico em Administração\nSENAI | 2023\n\n\nFormando em Estatística\nUEPB | 2026"
-  },
-  {
-    "objectID": "pagina_inicial.html#sobre-mim",
-    "href": "pagina_inicial.html#sobre-mim",
-    "title": "Richard Matheus A. da Silva",
-    "section": "",
-    "text": "Meu nome é Richard e sou estudante de Estatística, com grande interesse em análise de dados, programação e tecnologia.\nAtualmente, realizo estágio no IDEIA, atuando na área de pesquisa eleitoral. Durante essa experiência, venho desenvolvendo habilidades práticas com organização de dados, elaboração de relatórios e automação de processos.\nTenho interesse especial em áreas como estatística aplicada, análise multivariada, inteligência artificial e programação em Python. Também gosto de explorar ferramentas tecnológicas para transformar dados em soluções úteis e mais eficientes.\nAlém da área acadêmica, busco constantemente aprender novas habilidades, principalmente relacionadas à tecnologia, ciência de dados e desenvolvimento de projetos práticos. Atualmente, também tenho interesse em criar aplicações utilizando Streamlit para apresentar soluções interativas e facilitar a visualização de informações.\nSou uma pessoa curiosa, dedicada e focada em evolução constante, sempre procurando unir conhecimento teórico com aplicações práticas que possam gerar impacto positivo.\n\n\n\nSéries Temporais Machine Learning Ciência de Dados\n\n\n\n\n\n\nTécnico em Administração\nSENAI | 2023\n\n\nFormando em Estatística\nUEPB | 2026"
-  },
-  {
-    "objectID": "projeto1.html",
-    "href": "projeto1.html",
+    "objectID": "projeto2.html",
+    "href": "projeto2.html",
     "title": "Projetos de Pesquisa",
     "section": "",
-    "text": "📊 Detecção de Discurso Abusivo com Transformer\nFinanciador: CNPq – PIBIC\nPeríodo: 2025–2026\nCoordenação: Prof. Dr. Silvio Fernando Alves Xavier Junior\nObjetivo\nIndentificar e classificar discursos abusivos em textos utilizando técnicas avançadas de processamento de linguagem natural, como modelos Transformer (BERT), regressão logística e redes neurais recorrentes (LSTM).\nEquipe - Prof. Dr. Silvio Fernando Alves Xavier Junior\n- Richard Matheus A. da Silva (Bolsista)"
-  },
-  {
-    "objectID": "contact.html",
-    "href": "contact.html",
-    "title": "Contato",
-    "section": "",
-    "text": "xxxx\nxxxx, 000 - Bairro, Cidade, Estado, CEP Campina Grande, Paraíba.\n\n\n\nE-mail: [richardavelino003@gmail.com]"
-  },
-  {
-    "objectID": "contact.html#informações-de-contato",
-    "href": "contact.html#informações-de-contato",
-    "title": "Contato",
-    "section": "",
-    "text": "xxxx\nxxxx, 000 - Bairro, Cidade, Estado, CEP Campina Grande, Paraíba.\n\n\n\nE-mail: [richardavelino003@gmail.com]"
-  },
-  {
-    "objectID": "contact.html#redes-sociais-e-acadêmicas",
-    "href": "contact.html#redes-sociais-e-acadêmicas",
-    "title": "Contato",
-    "section": "Redes Sociais e Acadêmicas",
-    "text": "Redes Sociais e Acadêmicas\n\nGitHub\nLinkedIn"
-  },
-  {
-    "objectID": "contact.html#localização",
-    "href": "contact.html#localização",
-    "title": "Contato",
-    "section": "Localização",
-    "text": "Localização"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site"
-  },
-  {
-    "objectID": "dis_consultoria.html",
-    "href": "dis_consultoria.html",
-    "title": "Disciplinas",
-    "section": "",
-    "text": "📊 Informações✏️ Materiais/ListasExercícios\n\n\nCódigo: GRAD.00683| Créditos: 4 | Carga Horária: 60h\nHorário: Seg (18:00-20:00) | Qua (20:00-22:00)\nSala: Seg (A-112p - CCT - Bloco A) e Qua (C-205p - CCT - Bloco C)\n\n\n\n\n\nApresentação do curso\nIntrodução ao Github\nIntrodução ao Python\nEntendimento de Necessidades\n\n\n\n\n\nTutorial VS Code\nTemplate Entrevista\nTemplate Briefing"
-  },
-  {
-    "objectID": "dis_consultoria.html#consultoria-estatística-2026.1---noite",
-    "href": "dis_consultoria.html#consultoria-estatística-2026.1---noite",
-    "title": "Disciplinas",
-    "section": "",
-    "text": "📊 Informações✏️ Materiais/ListasExercícios\n\n\nCódigo: GRAD.00683| Créditos: 4 | Carga Horária: 60h\nHorário: Seg (18:00-20:00) | Qua (20:00-22:00)\nSala: Seg (A-112p - CCT - Bloco A) e Qua (C-205p - CCT - Bloco C)\n\n\n\n\n\nApresentação do curso\nIntrodução ao Github\nIntrodução ao Python\nEntendimento de Necessidades\n\n\n\n\n\nTutorial VS Code\nTemplate Entrevista\nTemplate Briefing"
+    "text": "📊 Estatícast\nPeríodo: 2025–2026\nCoordenação: Prof. Dr. Silvio Fernando Alves Xavier Junior\nObjetivo\nPromover a divulgação científica sobre estatística, ciência de dados e tecnologia, por meio de um podcast que aborda temas atuais e relevantes para a comunidade acadêmica e pública.\nEquipe\n\nProf. Dr. Silvio Fernando Alves Xavier Junior (Coordenador)\nRichard Matheus A. da Silva - (Voluntário)\nFabiano - (Voluntário)\nTulio - (Voluntário)\nFabio - (Voluntário)\nPatrícia - (Voluntária)\n\nConvidados que entrevistei\n\nEpisódio 07 - Rodolfo Pereira\nEpisódio 08 - Vladimir Costa\nEpisodio 09 - Tiago Almeida\nEpisodio 10 - Elisângela Rodrigues\nEpisódio 11 - Marcelo Bourguignon\nEpisódio 12 - Denilson"
   },
   {
     "objectID": "projects.html",
@@ -94,45 +31,66 @@
     ]
   },
   {
-    "objectID": "cv.html",
-    "href": "cv.html",
-    "title": "Curriculum Vitae",
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contato",
     "section": "",
-    "text": "Nome: Richard Matheus A. da Silva\nLattes: http://lattes.cnpq.br/\nORCID: https://orcid.org/\nLinkedin: https://www.linkedin.com/\nEmail: pedroalmeida@servidor.uepb.edu.br"
+    "text": "xxxx\nxxxx, 000 - Bairro, Cidade, Estado, CEP Campina Grande, Paraíba.\n\n\n\nE-mail: [richardavelino003@gmail.com]"
   },
   {
-    "objectID": "cv.html#identificação",
-    "href": "cv.html#identificação",
-    "title": "Curriculum Vitae",
+    "objectID": "contact.html#informações-de-contato",
+    "href": "contact.html#informações-de-contato",
+    "title": "Contato",
     "section": "",
-    "text": "Nome: Richard Matheus A. da Silva\nLattes: http://lattes.cnpq.br/\nORCID: https://orcid.org/\nLinkedin: https://www.linkedin.com/\nEmail: pedroalmeida@servidor.uepb.edu.br"
+    "text": "xxxx\nxxxx, 000 - Bairro, Cidade, Estado, CEP Campina Grande, Paraíba.\n\n\n\nE-mail: [richardavelino003@gmail.com]"
   },
   {
-    "objectID": "cv.html#formação-acadêmica",
-    "href": "cv.html#formação-acadêmica",
-    "title": "Curriculum Vitae",
-    "section": "Formação Acadêmica",
-    "text": "Formação Acadêmica\n\nPós-Graduação\n2018-2021: Doutorado em Estatística\nUniversidade Federal de Pernambuco (UFPE).\nTítulo: Processamento de Imagens SAR por estruturas aproximadas do tipo ARMA.\nOrientador: Prof. Dr. Abraão David Costa do Nascimento\n2014-2016: Mestrado em Estatística\nUniversidade Federal de Pernambuco (UFPE)\nTítulo: Teoria da informação aplicadas a modelos ARMA: Testes para identificação e quantificação de overfitting\nOrientador: Prof. Dr. Abraão David Costa do Nascimento\n\n\nGraduação\n2011-2014: Bacharelado em Estatística\nUniversidade Federal da Paraíba (UFPB)"
+    "objectID": "contact.html#redes-sociais-e-acadêmicas",
+    "href": "contact.html#redes-sociais-e-acadêmicas",
+    "title": "Contato",
+    "section": "Redes Sociais e Acadêmicas",
+    "text": "Redes Sociais e Acadêmicas\n\nGitHub\nLinkedIn"
   },
   {
-    "objectID": "cv.html#experiência-profissional",
-    "href": "cv.html#experiência-profissional",
-    "title": "Curriculum Vitae",
-    "section": "Experiência Profissional",
-    "text": "Experiência Profissional\n2022-atual: Estatístico/Cientista de Dados | Coordenador de Soluções Digitais\nCapgemini - Experiência do usuário - Projeto Banco do Brasil.\n2025-atual: Professor Adjunto A\nUEPB - Departamento de Estatística\n2021-2023: Professor Substituto\nUEPB - Departamento de Estatística\n2021-2022: Estatístico/Cientista de Dados\nHARTB - Marketing Analytics | Sistemas de recomendação - Projeto Casas Bahia\n2016-2017: Estatístico/Cientista de Dados\nNeurotech - Credit Score - Diversos Clientes"
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
   },
   {
-    "objectID": "cv.html#métricas-de-produção",
-    "href": "cv.html#métricas-de-produção",
-    "title": "Curriculum Vitae",
-    "section": "Métricas de Produção",
-    "text": "Métricas de Produção"
+    "objectID": "dis_consultoria.html",
+    "href": "dis_consultoria.html",
+    "title": "Disciplinas",
+    "section": "",
+    "text": "📊 Informações✏️ Materiais/ListasExercícios\n\n\nCódigo: GRAD.00683| Créditos: 4 | Carga Horária: 60h\nHorário: Seg (18:00-20:00) | Qua (20:00-22:00)\nSala: Seg (A-112p - CCT - Bloco A) e Qua (C-205p - CCT - Bloco C)\n\n\n\n\n\nApresentação do curso\nIntrodução ao Github\nIntrodução ao Python\nEntendimento de Necessidades\n\n\n\n\n\nTutorial VS Code\nTemplate Entrevista\nTemplate Briefing"
   },
   {
-    "objectID": "projeto2.html",
-    "href": "projeto2.html",
+    "objectID": "dis_consultoria.html#consultoria-estatística-2026.1---noite",
+    "href": "dis_consultoria.html#consultoria-estatística-2026.1---noite",
+    "title": "Disciplinas",
+    "section": "",
+    "text": "📊 Informações✏️ Materiais/ListasExercícios\n\n\nCódigo: GRAD.00683| Créditos: 4 | Carga Horária: 60h\nHorário: Seg (18:00-20:00) | Qua (20:00-22:00)\nSala: Seg (A-112p - CCT - Bloco A) e Qua (C-205p - CCT - Bloco C)\n\n\n\n\n\nApresentação do curso\nIntrodução ao Github\nIntrodução ao Python\nEntendimento de Necessidades\n\n\n\n\n\nTutorial VS Code\nTemplate Entrevista\nTemplate Briefing"
+  },
+  {
+    "objectID": "pagina_inicial.html",
+    "href": "pagina_inicial.html",
+    "title": "Richard Matheus A. da Silva",
+    "section": "",
+    "text": "Meu nome é Richard e sou estudante de Estatística, com grande interesse em análise de dados, programação e tecnologia.\nAtualmente, realizo estágio no IDEIA, atuando na área de pesquisa eleitoral. Durante essa experiência, venho desenvolvendo habilidades práticas com organização de dados, elaboração de relatórios e automação de processos.\nTenho interesse especial em áreas como estatística aplicada, análise multivariada, inteligência artificial e programação em Python. Também gosto de explorar ferramentas tecnológicas para transformar dados em soluções úteis e mais eficientes.\nAlém da área acadêmica, busco constantemente aprender novas habilidades, principalmente relacionadas à tecnologia, ciência de dados e desenvolvimento de projetos práticos. Atualmente, também tenho interesse em criar aplicações utilizando Streamlit para apresentar soluções interativas e facilitar a visualização de informações.\nSou uma pessoa curiosa, dedicada e focada em evolução constante, sempre procurando unir conhecimento teórico com aplicações práticas que possam gerar impacto positivo.\n\n\n\nSéries Temporais Machine Learning Ciência de Dados\n\n\n\n\n\n\nTécnico em Administração\nSENAI | 2023\n\n\nFormando em Estatística\nUEPB | 2026"
+  },
+  {
+    "objectID": "pagina_inicial.html#sobre-mim",
+    "href": "pagina_inicial.html#sobre-mim",
+    "title": "Richard Matheus A. da Silva",
+    "section": "",
+    "text": "Meu nome é Richard e sou estudante de Estatística, com grande interesse em análise de dados, programação e tecnologia.\nAtualmente, realizo estágio no IDEIA, atuando na área de pesquisa eleitoral. Durante essa experiência, venho desenvolvendo habilidades práticas com organização de dados, elaboração de relatórios e automação de processos.\nTenho interesse especial em áreas como estatística aplicada, análise multivariada, inteligência artificial e programação em Python. Também gosto de explorar ferramentas tecnológicas para transformar dados em soluções úteis e mais eficientes.\nAlém da área acadêmica, busco constantemente aprender novas habilidades, principalmente relacionadas à tecnologia, ciência de dados e desenvolvimento de projetos práticos. Atualmente, também tenho interesse em criar aplicações utilizando Streamlit para apresentar soluções interativas e facilitar a visualização de informações.\nSou uma pessoa curiosa, dedicada e focada em evolução constante, sempre procurando unir conhecimento teórico com aplicações práticas que possam gerar impacto positivo.\n\n\n\nSéries Temporais Machine Learning Ciência de Dados\n\n\n\n\n\n\nTécnico em Administração\nSENAI | 2023\n\n\nFormando em Estatística\nUEPB | 2026"
+  },
+  {
+    "objectID": "projeto1.html",
+    "href": "projeto1.html",
     "title": "Projetos de Pesquisa",
     "section": "",
-    "text": "📊 Estatícast\nPeríodo: 2025–2026\nCoordenação: Prof. Dr. Silvio Fernando Alves Xavier Junior\nObjetivo\nPromover a divulgação científica sobre estatística, ciência de dados e tecnologia, por meio de um podcast que aborda temas atuais e relevantes para a comunidade acadêmica e pública.\nEquipe\n\nProf. Dr. Silvio Fernando Alves Xavier Junior (Coordenador)\nRichard Matheus A. da Silva - (Voluntário)\nFabiano - (Voluntário)\nTulio - (Voluntário)\nFabio - (Voluntário)\nPatrícia - (Voluntária)\n\nConvidados que entrevistei\n\nEpisódio 07 - Rodolfo Pereira\nEpisódio 08 - Vladimir Costa\nEpisodio 09 - Tiago Almeida\nEpisodio 10 - Elisângela Rodrigues\nEpisódio 11 - Marcelo Bourguignon\nEpisódio 12 - Denilson"
+    "text": "📊 Detecção de Discurso Abusivo com Transformer\nFinanciador: CNPq – PIBIC\nPeríodo: 2025–2026\nCoordenação: Prof. Dr. Silvio Fernando Alves Xavier Junior\nObjetivo\nIndentificar e classificar discursos abusivos em textos utilizando técnicas avançadas de processamento de linguagem natural, como modelos Transformer (BERT), regressão logística e redes neurais recorrentes (LSTM).\nEquipe - Prof. Dr. Silvio Fernando Alves Xavier Junior\n- Richard Matheus A. da Silva (Bolsista)"
   }
 ]
