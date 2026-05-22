@@ -5,7 +5,7 @@ format:
     css: styles.css
 ---
 
-::: {.project}
+::: project
 
 ### 📊 Estatícast
 
@@ -14,6 +14,10 @@ format:
 
 **Objetivo**  
 Promover a divulgação científica sobre estatística, ciência de dados e tecnologia, por meio de um podcast que aborda temas atuais e relevantes para a comunidade acadêmica e pública.
+
+
+**Canal no YouTube:** [Estatícast no YouTube](https://www.youtube.com/@estaticast8384){target="_blank"}
+
 
 **Equipe**
 
@@ -31,12 +35,23 @@ Promover a divulgação científica sobre estatística, ciência de dados e tecn
 
 **Convidados que entrevistei**
 
-- Episódio 07 - Rodolfo Pereira
-- Episódio 08 - Vladimir Costa
-- Episodio 09 - Tiago Almeida
-- Episodio 10 - Elisângela Rodrigues
-- Episódio 11 - Marcelo Bourguignon
-- Episódio 12 - Denilson 
+
+- [Episódio 07 - Rodolfo Pereira](https://www.youtube.com/watch?v=nXrmUyaqHoA&t=00s){target="_blank"}
+
+
+- [Episódio 08 - Vladimir Costa](https://www.youtube.com/watch?v=HAP91TrarWk&t=00s){target="_blank"}
+
+
+- [Episódio 09 - Tiago Almeida](https://www.youtube.com/watch?v=OudPSyoLVvw&t=00s){target="_blank"}
+
+
+- [Episódio 10 - Elisângela Rodrigues](https://www.youtube.com/watch?v=aANAglEJghc&t=00s){target="_blank"}
+
+
+- [Episódio 11 - Marcelo Bourguignon](https://www.youtube.com/watch?v=k_GGWUchsDw&t=00s){target="_blank"}
+
+
+- Episódio 12 - Denilson Em breve disponível no canal do YouTube!
 
 :::
 

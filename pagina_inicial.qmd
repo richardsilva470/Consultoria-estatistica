@@ -20,7 +20,6 @@ format:
 ---
 
 
-
 ## Sobre mim
 
 Meu nome é Richard e sou estudante de Estatística, com grande interesse em análise de dados, programação e tecnologia.
@@ -59,7 +58,7 @@ UEPB | 2026
 :::
 
 ### linguagens de Programação
-::: {.grid}
+::: {.info-banner}
 
 ::: {.g-col-4}
 **Python** - Intermediário
