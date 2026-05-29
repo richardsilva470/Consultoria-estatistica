@@ -1,5 +1,5 @@
 ---
-title: "Richard Matheus A. da Silva 1111"
+title: "Richard Matheus A. da Silva"
 subtitle: "Pesquisador | Cientista de Dados"
 image: figuras/eu.png
 about:
