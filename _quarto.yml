@@ -14,12 +14,15 @@ website:
         file: pagina_inicial.qmd
       - text: "Projetos"
         file: projects.qmd
+      - text: "Certificações"
+        file: Certificados.qmd
       - text: "Disciplinas"
         menu:
         - text: "Consultoria Estatística"
           file: dis_consultoria.qmd
-      - text: "Contato"
-        file: contact.qmd
+      #- text: "Contato"
+        #file: contact.qmd
+      
     right:
       - icon: github
         href: https://github.com/seu-usuario

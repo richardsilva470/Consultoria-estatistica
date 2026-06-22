@@ -1,0 +1,55 @@
+---
+title: "Certificações & Cursos"
+format:
+  html:
+    css: styles.css
+---
+
+## 📜 Certificações Profissionais
+
+Aqui estão as certificações e cursos que completei com sucesso:
+
+::: {.certificates-container}
+
+::: {.cert-card}
+### Fundamentos de Linguagem Python do Básico a Aplicações de IA
+**Data Science Academy** | 96 horas  
+📅 Concluído em: **12/03/2026**  
+⭐ Desempenho: **97%**
+
+Curso avançado cobrindo Python do básico até aplicações práticas de inteligência artificial.
+:::
+
+::: {.cert-card}
+### Fundamentos de Linguagem Python Para Análise de Dados, Data Science e Machine Learning
+**Data Science Academy** | 64 horas  
+📅 Concluído em: **23/01/2026**  
+⭐ Desempenho: **97%**
+
+Formação completa em Python focada em análise de dados, ciência de dados e machine learning.
+:::
+
+::: {.cert-card}
+### Inteligência Artificial Explicável (XAI) com Python
+**Escola de Inteligência Artificial** | 7 horas  
+📅 Concluído em: **29/07/2025**  
+
+Curso especializado em interpretabilidade e explicabilidade de modelos de IA.
+:::
+
+::: {.cert-card}
+### Python para Iniciantes: Aprenda do Zero!
+**Escola de Inteligência Artificial** | 5 horas  
+📅 Concluído em: **10/12/2025**  
+
+Fundamentos de Python para iniciantes em programação.
+:::
+
+:::
+
+## 📚 Áreas de Aprendizado
+
+- **Python** - Do básico a aplicações avançadas de IA
+- **Data Science** - Análise de dados e machine learning
+- **Inteligência Artificial** - Modelos explicáveis e interpretáveis
+- **Programação Aplicada** - Soluções práticas e eficientes
