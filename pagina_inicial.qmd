@@ -14,6 +14,9 @@ about:
     - icon: envelope
       text: Email
       href: richardavelino3@gmail.com
+    - icon: whatsapp #Testar depois isso
+      text: Whatsapp #Testar depois isso
+      href: https://wa.me/55839863985 #Testar depois isso
 format:
   html:
     css: styles.css
