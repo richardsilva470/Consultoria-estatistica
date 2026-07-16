@@ -5,11 +5,19 @@ format:
     css: styles.css
 ---
 
-## 📜 Certificações Profissionais
+## Certificações Profissionais
 
 Aqui estão as certificações e cursos que completei com sucesso:
 
 ::: {.certificates-container}
+
+::: {.cert-card}
+### Streamlit: Crie 12 Aplicações Web de Inteligência Artificial
+**EIA Escola de Inteligência Artificial** | 30 horas  
+📅 Concluído em: **28/07/2026**  
+
+Curso introdutório sobre Streamlit e criação de aplicações web para inteligência artificial.
+:::
 
 ::: {.cert-card}
 ### Fundamentos de Linguagem Python do Básico a Aplicações de IA
