@@ -64,6 +64,35 @@
 
 
 
+body.quarto-dark .areas span {
+  background-color: rgba(255,255,255,0.08);
+  color: #f8f9fa;
+  border: 1px solid rgba(255,255,255,0.12);
+}
+
+body.quarto-dark table.dataTable,
+body.quarto-dark table.dataTable th,
+body.quarto-dark table.dataTable td {
+  background-color: transparent !important;
+  color: #f8f9fa !important;
+  border-color: rgba(255,255,255,0.12) !important;
+}
+
+body.quarto-dark table.dataTable thead th {
+  background-color: rgba(255,255,255,0.08) !important;
+}
+
+body.quarto-dark table.dataTable tbody tr:nth-child(odd) {
+  background-color: rgba(255,255,255,0.03) !important;
+}
+
+body.quarto-dark table.dataTable tbody tr:nth-child(even) {
+  background-color: transparent !important;
+}
+
+body.quarto-dark .dataTables_wrapper {
+  color: #f8f9fa !important;
+}
 
 .project-grid {
   display: grid;
@@ -78,6 +107,34 @@
   cursor: pointer;
   box-shadow: 0 4px 12px rgba(0,0,0,0.08);
   transition: all 0.2s ease;
+}
+
+body.quarto-dark .project-card {
+  background-color: rgba(255,255,255,0.06);
+  color: #f8f9fa;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.25);
+}
+
+body.quarto-dark .project-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 8px 24px rgba(0,0,0,0.30);
+}
+
+body.quarto-dark .project-card h3,
+body.quarto-dark .project-card strong {
+  color: #f8f9fa;
+}
+
+body.quarto-dark .cert-card {
+  background-color: rgba(255,255,255,0.06);
+  color: #f8f9fa;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.25);
+}
+
+body.quarto-dark .cert-card h3,
+body.quarto-dark .cert-card strong,
+body.quarto-dark .cert-card p {
+  color: #f8f9fa;
 }
 
 .project-card:hover {
